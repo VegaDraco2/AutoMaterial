@@ -5,7 +5,7 @@ bl_info = {
     "blender": (3, 6, 1),
     "location": "3D Viewport > Right Sidebar (N-Bar)",
     "description": "Material Stuff",
-    "warning": "Still Testing",
+    "warning": "Has not been tested on Linux or Mac!",
     "doc_url": "",
     "category": "Material",
 }
